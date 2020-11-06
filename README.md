@@ -1,6 +1,6 @@
-## Meu portfólio
+## Meu portfolio
 
-Portfólio construído com o objetivo de contar mais sobre mim e o meu trabalho!
+Portfolio construído com o objetivo de contar mais sobre mim e o meu trabalho!
 
 ## Dependências 🧰
 
@@ -13,4 +13,4 @@ Portfólio construído com o objetivo de contar mais sobre mim e o meu trabalho!
 
 ## Dá uma estrelinha! ⭐️
 
-Copyright © 2020 [Lucas Alvarenga](https://github.com/Alvarenga-Dev). <br/>
+Copyright © 2020 [Lucas Alvarenga](https://github.com/Alvarenga-Dev). 
