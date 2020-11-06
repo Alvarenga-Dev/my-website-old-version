@@ -15,7 +15,7 @@ const About = () => (
             <Content>
                 <p>Oi, me chamo Lucas Alvarenga, sou desenvolvedor Android apaixonado pelo meu trabalho.</p>
 
-                <p>Tenho contato com a área de programação desde dos meus 13 anos (tenho contato com a área a 4 anos), e desde então pude ter contato com o desenvolvimento mobile e web, mas sempre gostei do desenvolvimento Android nativo com Java e Kotlin. Dessa forma, me concentrei em aprender as principais arquiteturas, bibliotecas e boas práticas de codificação. Sou um Dev que ama ter um código organizado para fácil manutenção e entendimento.</p>
+                <p>Tenho contato com a área de programação desde dos meus 13 anos e desde então pude ter contato com o desenvolvimento mobile e web, mas sempre gostei do desenvolvimento Android nativo com Java e Kotlin. Dessa forma, me concentrei em aprender as principais arquiteturas, bibliotecas e boas práticas de codificação. Sou um Dev que ama ter um código organizado para fácil manutenção e entendimento.</p>
 
                 <p>Atualmente, sou estagiário de Desenvolvimento Android na Bornlogic que é empresa de tecnologia com foco em performance em anunciantes digitais e sendo parceira de Negócios e AdTech do Facebook, Google e Tableau.</p>
 
