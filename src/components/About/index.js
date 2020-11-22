@@ -8,7 +8,7 @@ const About = () => (
         <Container>
             <Header>
                 <img src={logo} alt="Minha Logo é formada por uma letra 'L' e uma letra 'A' com tonalidade azul-claro." /> 
-                <h1> Desenvolvedor Android e criador de conteúdo nas horas vagas. <span role="img" aria-label="Mão">✌🏻</span></h1>
+                <h1>Desenvolvedor Android e criador de conteúdo nas horas vagas. <span role="img" aria-label="Mão">✌🏻</span></h1>
                 <h2>Quem sou eu? <span role="img" aria-label="Cara pensativa">🤔</span></h2>
             </Header>
 
