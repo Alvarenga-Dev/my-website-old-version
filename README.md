@@ -1,6 +1,6 @@
-## Meu portfolio
+## Meu portfólio
 
-Portfolio construído com o objetivo de contar mais sobre mim e o meu trabalho!
+Portfólio construído com o objetivo de contar mais sobre mim e o meu trabalho!
 
 ## Dependências 🧰
 
