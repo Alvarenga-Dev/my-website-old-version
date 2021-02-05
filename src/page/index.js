@@ -11,7 +11,7 @@ const Page = () => (
             <Profile />
         </Container>
         <Footer>
-            <p>Copyright © 2020 | Design by Lucas Alvarenga<span role="img" aria-label="Raio">⚡</span></p>
+            <p>Copyright © ${new Date().getFullYear()} | Design by Lucas Alvarenga<span role="img" aria-label="Raio">⚡</span></p>
         </Footer>
     </Fragment>
 );

@@ -17,9 +17,9 @@ const About = () => (
 
                 <p>Tenho contato com a área de programação desde dos meus 13 anos e, assim, pude ter contato com o desenvolvimento mobile e web, mas sempre gostei do desenvolvimento Android nativo com Java e Kotlin. Dessa forma, me concentrei em aprender as principais arquiteturas, bibliotecas e boas práticas de codificação. Sou um Dev que ama ter um código organizado para fácil manutenção e entendimento.</p>
 
-                <p>Atualmente, sou estagiário de Desenvolvimento Android na Bornlogic que é empresa de tecnologia com foco em performance em anunciantes digitais e sendo parceira de Negócios e AdTech do Facebook, Google e Tableau.</p>
+                <p>Atualmente, sou Desenvolvedor Android na Bornlogic que é empresa de tecnologia com foco em performance em anunciantes digitais e sendo parceira de Negócios e AdTech do Facebook, Google e Tableau.</p>
 
-                <p>Mesmo começando na área de tecnologia, criei o perfil @alvarenga.dev no instagram com o intuito de compartilhar conhecimento e ajudar outros a começarem com o “pé direito”.</p>
+                <p>Desde do começo da minha trajetória, criei o perfil @alvarenga.dev no instagram com o intuito de compartilhar conhecimento e ajudar outros a começarem com o “pé direito”.</p>
             </Content>
         </Container>
 )
